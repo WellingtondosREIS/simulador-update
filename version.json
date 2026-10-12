@@ -1,0 +1,8 @@
+{
+  "versao": "2.3.0",
+  "mensagem": "A versão 2.3.0 do Simulador está disponível.",
+  "url_download": "https://github.com/WellingtondosREIS/simulador-update/releases/download/v2.3.0/SetupSimuladorComandos-2.3.0.exe",
+  "url_download_windows": "https://github.com/WellingtondosREIS/simulador-update/releases/download/v2.3.0/SetupSimuladorComandos-2.3.0.exe",
+  "url_download_macos": "https://github.com/WellingtondosREIS/simulador-update/releases/download/v2.3.0/SimuladorComandos-2.3.0-macos.dmg",
+  "url_download_linux": "https://github.com/WellingtondosREIS/simulador-update/releases/download/v2.3.0/SimuladorComandos-2.3.0-linux.tar.gz"
+}
